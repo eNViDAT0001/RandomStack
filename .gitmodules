@@ -1,0 +1,6 @@
+[submodule "GoCompiler"]
+	path = GoCompiler
+	url = https://github.com/eNViDAT0001/GoCompiler.git
+[submodule "GoInterpreter"]
+	path = GoInterpreter
+	url = https://github.com/eNViDAT0001/GoInterpreter.git
